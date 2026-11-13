@@ -1,6 +1,8 @@
 # LLM Safety Lab
 
-A portfolio-ready, local-first MVP for reviewing language-model responses with transparent security and quality heuristics. It supports English and Hindi starter probes, highlights findings with evidence and recommendations, and exports a JSON report.
+A local-first Streamlit application for reviewing language-model responses with transparent security and quality heuristics. It supports English and Hindi starter probes, highlights findings with evidence and recommendations, and exports JSON reports.
+
+**Live app:** https://llm-safety-lab.streamlit.app/
 
 ## MVP and architecture
 
